@@ -9,6 +9,7 @@ public class Main {
         System.out.println(b);
         int c = a * b;
         System.out.println(" С = " + c);
+        System.out.println(" A + B = С");
 
     }
 }
