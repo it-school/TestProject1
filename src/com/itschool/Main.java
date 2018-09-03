@@ -7,8 +7,8 @@ public class Main {
         System.out.println(a);
         int b = 6;
         System.out.println(b);
-        int c = a + b;
-        System.out.println(c);
+        int c = a * b;
+        System.out.println(" С = " + c);
 
     }
 }
